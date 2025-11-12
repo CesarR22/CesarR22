@@ -20,7 +20,7 @@ Soy **Jr QA Analyst** y **estudiante de Ingeniería Informática**. Me apasiona 
 - Automatización de pruebas (UI/API) y **mejora continua** del proceso.
 - Colaboración con desarrollo y operaciones para **entregas confiables**.
 
-> Experiencia en QA para **sistemas de venta (SAP POS)** y aplicaciones internas; pruebas manuales y automatizadas; reporte/seguimiento de bugs; y mantenimiento de scripts de prueba. :contentReference[oaicite:0]{index=0}
+> Experiencia en QA para **sistemas de venta (SAP POS)** y aplicaciones internas; pruebas manuales y automatizadas; reporte/seguimiento de bugs; y mantenimiento de scripts de prueba.
 
 ---
 
@@ -30,8 +30,7 @@ Soy **Jr QA Analyst** y **estudiante de Ingeniería Informática**. Me apasiona 
 **Prácticas:** SDLC, estrategias de prueba (funcionales, integración, regresión), gestión de defectos  
 **Herramientas:** Git, GitHub Actions, SQL básico, Markdown
 
-> Aptitudes destacadas: *Quality System, Quality Control, SDLC*. Idiomas: **Español (nativo)**, **Inglés (profesional)**. :contentReference[oaicite:1]{index=1}
-
+> Aptitudes destacadas: *Quality System, Quality Control, SDLC*. Idiomas: **Español (nativo)**, **Inglés (profesional)**.
 ---
 
 ## 💼 Experiencia (resumen)
@@ -39,14 +38,12 @@ Soy **Jr QA Analyst** y **estudiante de Ingeniería Informática**. Me apasiona 
 - Pruebas funcionales y de regresión en **SAP POS** y sitios internos.  
 - **Automatización** de pruebas de escritorio con **TestComplete + Python**.  
 - Gestión de bugs y fortalecimiento de la cobertura QA.  
-- Trabajo conjunto con Dev/IT para optimizar procesos.  :contentReference[oaicite:2]{index=2}
+- Trabajo conjunto con Dev/IT para optimizar procesos.  
 
 **SAP Intern — QA** *(feb 2024 – ago 2024)*  
-- Apoyo a QA en equipos multidisciplinarios, con foco en calidad y aprendizaje continuo.  :contentReference[oaicite:3]{index=3}
-
+- Apoyo a QA en equipos multidisciplinarios, con foco en calidad y aprendizaje continuo.  
 **Developer Odoo — Multiserviciossv** *(ene 2023 – ene 2024)*  
-- Personalización de módulos, reportes y flujos; soporte en Python/JS; optimización de rendimiento.  :contentReference[oaicite:4]{index=4}
-
+- Personalización de módulos, reportes y flujos; soporte en Python/JS; optimización de rendimiento.  
 ---
 
 ## 🏅 Certificaciones (selección)
@@ -54,8 +51,7 @@ Soy **Jr QA Analyst** y **estudiante de Ingeniería Informática**. Me apasiona 
 - **Principiante en programación G6 — ONE**  
 - **Macros y VBA**  
 - **Autodescubrimiento y desarrollo personal**  
-- **Emprendimiento, Agilidad y Protagonismo Profesional G6 — ONE**  :contentReference[oaicite:5]{index=5}
-
+- **Emprendimiento, Agilidad y Protagonismo Profesional G6 — ONE**  
 ---
 <div align="center">
 
