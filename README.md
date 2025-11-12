@@ -57,33 +57,16 @@ Soy **Jr QA Analyst** y **estudiante de Ingeniería Informática**. Me apasiona 
 - **Emprendimiento, Agilidad y Protagonismo Profesional G6 — ONE**  :contentReference[oaicite:5]{index=5}
 
 ---
+<div align="center">
 
-## 📌 Proyectos destacados
-> Fija (pin) 4–6 repositorios que te representen. Ejemplos para tu perfil:
+### 📬 Contacto
 
-- **qa-automation-demo** — Pruebas E2E con Playwright (UI) y colección de Postman (API) + **GitHub Actions**.
-- **sap-pos-test-scripts** — Scripts de validación para flujos clave (ventas, devoluciones, cierres) con reporting.
-- **pos-restaurante-front** — Interfaz POS en React optimizada para pantallas táctiles; guía de instalación en README.
-- **testing-strategy-examples** — Plantillas de casos de prueba (MD/CSV) y ejemplos de regresión.
+**César Roque**  
+Jr QA Analyst · San Salvador, El Salvador  
 
-Cada repo debería incluir:
-- **Descripción clara**, **cómo correrlo**, **tecnologías**, **capturas** y **casos de ejemplo**.
+[Email](mailto:cesarroque2002@gmail.com) · 
+[LinkedIn](https://www.linkedin.com/in/cesar-roqueinginf) · 
 
----
+</div>
 
-## 🛠 CI: ejemplo rápido (Node + Playwright)
-```yaml
-# .github/workflows/tests.yml
-name: Run tests
-on: [push, pull_request]
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - run: npm ci
-      - run: npx playwright install --with-deps
-      - run: npm test
+
